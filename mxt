@@ -1,6 +1,7 @@
 [custom]
 surge_ruleset=✈️ 机场专线,https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/airports.list
 surge_ruleset=🎥 其他国外流媒体,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
+surge_ruleset=🎥 其他国外流媒体,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 surge_ruleset=📲 社交媒体,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 surge_ruleset=🍎 苹果服务,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt
 surge_ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Microsoft.list
