@@ -12,3 +12,4 @@ always-real-ip = *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.co
 "Boxifly-Office" suspend=true
 "Boxifly-Office_5g" suspend=true
 "Boxifly-Office_5G" suspend=true
+"Boxifly Office" suspend=true
