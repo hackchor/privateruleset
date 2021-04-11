@@ -13,4 +13,4 @@ surge_ruleset=DIRECT,https://raw.githubusercontent.com/limbopro/Profiles/master/
 surge_ruleset=DIRECT,[]GEOIP,CN
 surge_ruleset=🐟 final,[]FINAL
 include_remarks= 香港|美国|🇭🇰|🇺🇸|HK|hk|US|us
-surge_rule_base=https://raw.githubusercontent.com/hackchor/privateruleset/main/baseh.conf
+surge_rule_base=https://raw.githubusercontent.com/hackchor/privateruleset/main/baseh
