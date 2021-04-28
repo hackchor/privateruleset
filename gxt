@@ -1,22 +1,15 @@
 [custom]
+surge_ruleset=✈️ 机场专线,https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/airports.list
+surge_ruleset=🌍 国外媒体,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
+surge_ruleset=🌍 国外媒体,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
+surge_ruleset=📲 电报信息,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
+surge_ruleset=🍎 苹果服务,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt
+surge_ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Microsoft.list
+surge_ruleset=🌏 国内媒体,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list
+surge_ruleset=🌏 国内媒体,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
+surge_ruleset=🌏 国内媒体,https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Local.list
+surge_ruleset=🎯 全球直连,[]GEOIP,CN
+surge_ruleset=🐟 漏网之鱼,[]FINAL
 include_remarks= 香港|美国|🇭🇰|🇺🇸|HK|hk|US|us
 surge_rule_base=https://raw.githubusercontent.com/hackchor/privateruleset/main/basem
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0,🎯 全球直连
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvTVNTZXJ2aWNlcy5saXN0,Ⓜ️ 微软服务
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvVW5icmVhay5saXN0,🎯 全球直连
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0,🛑 全球拦截
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q,🛑 全球拦截
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q,🌍 国外媒体
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9CaWxpYmlsaS5saXN0,🌏 国内媒体
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0,🌏 国内媒体
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9MZXR2Lmxpc3Q,🌏 国内媒体
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9NT08ubGlzdA,🌏 国内媒体
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9UZW5jZW50IFZpZGVvLmxpc3Q,🌏 国内媒体
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0,🌏 国内媒体
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA,📲 电报信息
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q,🔰 节点选择
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvQXBwbGUvQXBwbGUubGlzdA,🍎 苹果服务
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA,🎯 全球直连
-RULE-SET,http://127.0.0.1:25500/getruleset?type=1&url=cnVsZXMvTm9ieURhL1N1cmdlL0Rvd25sb2FkLmxpc3Q,🎯 全球直连
-GEOIP,CN,🎯 全球直连
-FINAL,🐟 漏网之鱼
