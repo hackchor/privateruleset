@@ -1,4 +1,5 @@
 [custom]
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/hackchor/privateruleset/main/lan.list
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/hackchor/privateruleset/main/localh.list
 surge_ruleset=🌏 国内媒体,[]GEOIP,CN
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/hackchor/privateruleset/main/lanh.list
