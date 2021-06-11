@@ -1,9 +1,5 @@
 [custom]
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/hackchor/privateruleset/main/lan.list
-surge_ruleset=🌏 国内媒体,https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Local.list
-surge_ruleset=🌏 国内媒体,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/direct.txt
-surge_ruleset=🌍 国外媒体,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/tld-not-cn.txt
-surge_ruleset=📲 电报信息,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/proxy.txt
 surge_ruleset=🌏 国内媒体,[]GEOIP,CN
 surge_ruleset=🐟 漏网之鱼,[]FINAL
 include_remarks= 香港|美国|🇭🇰|🇺🇸|HK|hk|US|us
