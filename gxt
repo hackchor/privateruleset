@@ -1,7 +1,7 @@
 [custom]
-surge_ruleset=DIRECT,https://raw.githubusercontent.com/hackchor/privateruleset/main/lan.list
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/hackchor/privateruleset/main/localh.list
 surge_ruleset=🌏 国内媒体,[]GEOIP,CN
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/hackchor/privateruleset/main/lanh.list
 surge_ruleset=🐟 漏网之鱼,[]FINAL
 include_remarks= 香港|美国|🇭🇰|🇺🇸|HK|hk|US|us
 surge_rule_base=https://raw.githubusercontent.com/hackchor/privateruleset/main/basem
