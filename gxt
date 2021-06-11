@@ -1,7 +1,4 @@
 [custom]
-surge_ruleset=🍎 苹果服务,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/icloud.txt
-surge_ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Microsoft.list
-surge_ruleset=DIRECT,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/direct.txt
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Local.list
 surge_ruleset=🌍 国外媒体,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/tld-not-cn.txt
 surge_ruleset=📲 电报信息,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/proxy.txt
